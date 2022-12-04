@@ -1,4 +1,4 @@
-## Olá, sou a Ana Victória! Estudante de programação e futura Desenvolvedora Front-end.
+## Hi, I'm Ana Victoria! Programming student and future Front-end Developer.
 <div align="center">
   <a href="https://github.com/aninhafofazap%22%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
