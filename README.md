@@ -3,7 +3,7 @@
   <a href="https://github.com/aninhafofazap%22%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula%22/%3E
-</div>
+</div<br>
 <div>
   <a  href="https://github.com/aninhafofazap">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=aninhafofazap&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
@@ -27,6 +27,7 @@
 <a href = "mailto:anavictoriagomes1810@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://www.linkedin.com/in/anavictoria-gomes/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "https://twitter.com/AnaVickz"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+   
    
    
    ![Snake animation](https://github.com/aninhafofazap/aninhafofazap/blob/output/github-contribution-grid-snake.svg)
